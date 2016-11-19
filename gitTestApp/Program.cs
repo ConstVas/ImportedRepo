@@ -10,6 +10,7 @@ namespace gitTestApp
         static void Main(string[] args)
         {
             Console.WriteLine("sssdsd");
+            Console.WriteLine("dddddddd");
         }
     }
 }
